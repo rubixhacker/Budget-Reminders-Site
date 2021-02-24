@@ -31613,7 +31613,7 @@ $S:124}
 F.y1.prototype={
 V:function(a,b){return new S.pC(new F.y2(null),"Budget Reminders",X.a3q($.a5T(),null,C.m0),null)}}
 F.y2.prototype={
-V:function(a,b){var s=null,r=K.cS(b),q=r.rx,p=U.Zm("assets/images/reminder_icon.png",300),o=r.ay.c,n=L.ad8("Get reminded to check your budget",o.f3(C.j),C.eu),m=P.cg(0,0,3),l=t.fQ
+V:function(a,b){var s=null,r=K.cS(b),q=r.rx,p=U.Zm("assets/images/reminder_icon.png",300),o=r.ay.d,n=L.ad8("Get reminded to check your budget",o.f3(C.j),C.eu),m=P.cg(0,0,3),l=t.fQ
 return new M.qJ(T.Z2(new T.ix(C.ue,new T.wb(C.aj,C.lZ,C.m_,C.kQ,s,C.ni,s,H.c([p,new T.ix(C.os,n,s),T.Qz(new M.AW(M.adi(H.c(["every day before lunch","when you get to the grocery store","before your afternoon break","before you order that morning coffee"],t.i),C.eu,o.f3(C.j),C.u8,C.eF),m,!1,!1,s,s,s,s,!0,!0,3,s),60,s),new T.ix(C.os,new T.zP(C.Q,C.lZ,C.m_,C.kQ,s,C.ni,s,H.c([D.xd(s,U.Zm("assets/images/play_badge.png",225),C.b5,!1,s,s,s,s,s,s,s,s,s,s,new F.Nh(),s,s,s,s,s),D.xd(s,U.Zm("assets/images/app-store-badge.png",200),C.b5,!1,s,s,s,s,s,s,s,s,s,s,new F.Ni(),s,s,s,s,s)],l),s),s)],l),s),s),s,s),q,s)}}
 F.Nh.prototype={
 $0:function(){window.location.href="https://play.google.com/store/apps/details?id=com.hackedcube.budgetreminders"},
